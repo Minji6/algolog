@@ -1,0 +1,4 @@
+touch 민수/.gitkeep
+git add .
+git commit -m "빈 폴더 추가: 민수"
+git push
